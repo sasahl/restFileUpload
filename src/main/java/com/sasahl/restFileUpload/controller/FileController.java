@@ -20,7 +20,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * Class to upload and download files
+ * Class to upload and download files using java and Spring.
  */
 @RestController
 public class FileController {
