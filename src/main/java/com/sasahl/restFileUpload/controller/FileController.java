@@ -19,6 +19,9 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
+/**
+ * Class to upload and download files
+ */
 @RestController
 public class FileController {
 
